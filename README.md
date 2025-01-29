@@ -1,2 +1,2 @@
 # site
-Publically available website
+publicly available website
